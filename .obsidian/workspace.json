@@ -1,0 +1,330 @@
+{
+  "main": {
+    "id": "78297dfca2eac176",
+    "type": "split",
+    "children": [
+      {
+        "id": "c864ef37d266c9c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c45075aa453f54a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eval AI/AI-Quality-Engineer-Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI-Quality-Engineer-Roadmap"
+            }
+          },
+          {
+            "id": "c1989e18c002b730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eval AI/AI-Quality-Engineer-Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI-Quality-Engineer-Roadmap"
+            }
+          },
+          {
+            "id": "0db0a1be1ea25ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eval AI/Phase 8 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 8 Notes"
+            }
+          },
+          {
+            "id": "4d560da5eb3b275e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eval AI/Phase 7 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 7 Notes"
+            }
+          },
+          {
+            "id": "628e4c5a8111934d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eval AI/Phase 6 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 6 Notes"
+            }
+          },
+          {
+            "id": "6603386bac230a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eval AI/Phase 5 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 5 Notes"
+            }
+          },
+          {
+            "id": "e321e594b978ea39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eval AI/Phase 4 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 4 Notes"
+            }
+          },
+          {
+            "id": "18d32be1d3740e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eval AI/AI-Quality-Engineer-Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI-Quality-Engineer-Roadmap"
+            }
+          },
+          {
+            "id": "ecee6924e116df5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eval AI/Phase 2 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 2 Notes"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b00ca01050e3787",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f1424cc8f8cd1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c95c6fc2e0d6007b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3ef8826dfef34934",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "903bb5ec7d048d8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48e7fa990af3c212",
+    "type": "split",
+    "children": [
+      {
+        "id": "40c58cbfb6c6bcba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "338f5957f3fba39b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eval AI/AI-Quality-Engineer-Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "83bbc1dd245d287c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eval AI/AI-Quality-Engineer-Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0f568a0fc813c17c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3f71bfd0eb27d5e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c4fb23dbb0e0ac4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Eval AI/AI-Quality-Engineer-Roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "34ce4cd7f870b00e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c1989e18c002b730",
+  "lastOpenFiles": [
+    "Eval AI/Phase 8 Notes.md",
+    "Eval AI/AI-Quality-Engineer-Roadmap.md",
+    "Eval AI/Phase 7 Notes.md",
+    "Eval AI/Phase 6 Notes.md",
+    "Eval AI/Phase 5 Notes.md",
+    "Eval AI/Phase 4 Notes.md",
+    "Eval AI/Phase 1 Notes.md",
+    "Eval AI/Phase 3 Notes.md",
+    "Eval AI/Phase 2 Notes.md",
+    "Eval AI/Untitled.md",
+    "Welcome.md",
+    "Eval AI"
+  ]
+}
